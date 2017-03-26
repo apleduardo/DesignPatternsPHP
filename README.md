@@ -6,9 +6,14 @@ Practice Design patterns
 
 ## Installation
 
-clone this repository and run composer
+~~~
+  git clone https://github.com/apleduardo/DesignPatternsPHP.git
+  cd DesignPatternsPHP
+  docker-compose up
+~~~
 
 ## Tests
 
- `` vendor/bin/phpunit 
- ``
+~~~
+ vendor/bin/phpunit 
+~~~ 
